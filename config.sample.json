@@ -1,0 +1,14 @@
+{
+  "ntpServers": [
+    {
+      "address": "ru-01.ntp.sculk.ltd",
+      "text": "Russia, Moscow - Stratum 2",
+      "stratum": 2
+    },
+    {
+      "address": "ntp1.vniiftri.ru",
+      "text": "Russia, Moscow - Stratum 1",
+      "stratum": 1
+    }
+  ]
+}
